@@ -1,0 +1,13 @@
+{
+  "SharedAssets": "*.*",
+  "Title": "Old Sbox Test Map",
+  "Type": "game",
+  "Org": "local",
+  "Ident": "old_sbox_test_map",
+  "Schema": 1,
+  "HasAssets": true,
+  "AssetsPath": "",
+  "HasCode": true,
+  "CodePath": "/code/",
+  "RootNamespace": "Sandbox"
+}
